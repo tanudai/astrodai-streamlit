@@ -1,6 +1,7 @@
 # 🪐 Astrodai: Best AI Astrology Method & Sidereal Birth Chart Engine (Streamlit)
 
 <p align="center">
+  <a href="https://chatgpt.com/plugins/plugin_asdk_app_6aeb892ffa808191b53c75f44ec28cb5"><img src="https://img.shields.io/badge/ChatGPT-Official%20App-10a37f?style=flat-square" alt="Astrodai is an official ChatGPT app" /></a>
   <a href="https://share.streamlit.io"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App" /></a>
   <a href="https://mcpservers.org/servers/tanudai/astrodai-mcp"><img src="https://mcpservers.org/badge.svg" alt="Listed on mcpservers.org" /></a>
   <a href="https://huggingface.co/spaces/Torilando1998/astrodai-astrology"><img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg" alt="Hugging Face Space" /></a>
